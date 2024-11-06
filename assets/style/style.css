@@ -1,0 +1,36 @@
+/* Styles personnalisés */
+body {
+    background-color: #1a1a2e;
+    color: #eaeaea;
+}
+
+.crypto-table img {
+    width: 30px;
+    height: 30px;
+}
+
+.refresh-btn {
+    cursor: pointer;
+}
+
+.price-up {
+    color: #28a745;
+}
+
+.price-down {
+    color: #dc3545;
+}
+
+.table-dark th, .table-dark td {
+    border-color: #343a40;
+}
+
+.navbar {
+    background-color: #16213e;
+}
+
+.footer {
+    background-color: #0f3460;
+    color: #eaeaea;
+    padding: 20px 0;
+}
