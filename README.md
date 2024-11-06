@@ -48,11 +48,11 @@ Bienvenue sur **CryptoTracker** ! 🚀 Un projet simple pour afficher les prix d
 
 - **index.html** : Contient la structure HTML principale du site.
 - **assets/style/style.css** : Fichier CSS pour les styles personnalisés.
-- **assets/style/script.js** : Script JavaScript pour récupérer et afficher les données de l'API.
+- **assets/script/script.js** : Script JavaScript pour récupérer et afficher les données de l'API.
 
 ## 🎨 Aperçu
 
-![Aperçu du site](https://cdn.discordapp.com/attachments/1144619785271914586/1303781241153126420/image.png?ex=672d0066&is=672baee6&hm=0fa5f3019acd3ad07ffed60eba5534f28fd9713be0555febd97b379c8121d176&)
+![Aperçu du site](https://cdn.discordapp.com/attachments/1144619785271914586/1303783510561263707/image.png?ex=672d0284&is=672bb104&hm=b50d5d68f492206095d72da0e8f638f18134bf9e5762514df0b4c8e45fdc0ec8&)
 
 ## 📚 Technologies Utilisées
 
