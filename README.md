@@ -20,7 +20,7 @@ Bienvenue sur **CryptoTracker** ! 🚀 Un projet simple pour afficher les prix d
 1. **Cloner le dépôt**
 
    ```bash
-   git clone [https://github.com/votre-utilisateur/crypto-tracker.git](https://github.com/sfeirc/CoinGeko)
+   git clone https://github.com/sfeirc/CoinGeko
    ```
 
 2. **Accéder au dossier du projet**
