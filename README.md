@@ -1,5 +1,5 @@
 ## 📈 CryptoTracker
-Bienvenue sur **CryptoTracker** ! 🚀 Un projet simple pour afficher les prix des cryptomonnaies en temps réel en utilisant l'API publique de CoinGecko.qsdqsd
+Bienvenue sur **CryptoTracker** ! 🚀 Un projet simple pour afficher les prix des cryptomonnaies en temps réel en utilisant l'API publique de CoinGecko.
 
 
 ---
