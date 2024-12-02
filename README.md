@@ -1,5 +1,8 @@
 ## 📈 CryptoTracker
-Bienvenue sur **CryptoTracker** ! 🚀 Un projet simple pour afficher les prix des cryptomonnaies en temps réel en utilisant l'API publique de CoinGecko.
+Bienvenue sur **CryptoTracker** ! 🚀 Un projet simple pour afficher les prix des cryptomonnaies en temps réel en utilisant l'API publique de CoinGecko.qsdqsd
+
+
+---
 
 
 ---
@@ -20,9 +23,15 @@ Bienvenue sur **CryptoTracker** ! 🚀 Un projet simple pour afficher les prix d
 
 ---
 
+
+---
+
 ## 📋 Prérequis
 - Un navigateur web moderne (Chrome, Firefox, Edge, Safari).
 - Connexion Internet pour accéder à l'API de CoinGecko et aux CDN de Bootstrap et FontAwesome.
+
+
+---
 
 
 ---
@@ -64,6 +73,9 @@ cd CryptoTracker
 
 ---
 
+
+---
+
 ## 🛠️ Structure du Projet
 - **index.html** : Contient la structure HTML principale du site.
 - **assets/style/style.css** : Fichier CSS pour les styles personnalisés.
@@ -75,8 +87,14 @@ cd CryptoTracker
 
 ---
 
+
+---
+
 ## 🎨 Aperçu
 ![Aperçu du site](https://cdn.discordapp.com/attachments/1144619785271914586/1303783510561263707/image.png?ex=672d0284&is=672bb104&hm=b50d5d68f492206095d72da0e8f638f18134bf9e5762514df0b4c8e45fdc0ec8&)
+
+
+---
 
 
 ---
@@ -98,6 +116,9 @@ cd CryptoTracker
 
 ---
 
+
+---
+
 ## 🔧 Personnalisation
 Vous pouvez personnaliser le projet selon vos besoins :
 
@@ -111,9 +132,15 @@ Vous pouvez personnaliser le projet selon vos besoins :
 
 ---
 
+
+---
+
 ## ⚠️ Remarques Importantes
 - **Limites de l'API** : L'API de CoinGecko est publique et n'exige pas de clé API pour des appels basiques, mais veuillez respecter leurs [conditions d'utilisation](https://www.coingecko.com/en/terms).
 - **Dépendances en ligne** : Le projet utilise des CDN pour Bootstrap et FontAwesome. Assurez-vous d'avoir une connexion Internet lors de l'utilisation.
+
+
+---
 
 
 ---
